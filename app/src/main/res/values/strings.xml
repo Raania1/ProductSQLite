@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjetLogin</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_forget_password">ForgetPassword</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_home1">Home1</string>
+    <string name="title_activity_details_product">DetailsProduct</string>
+    <string name="title_activity_product_contract">ProductContract</string>
+    <string name="title_activity_feed_reader_db_helper">FeedReaderDbHelper</string>
+    <string name="title_activity_ajout_produit">AjoutProduit</string>
+    <string name="title_activity_modifier_produit">ModifierProduitActivity</string>
+</resources>
